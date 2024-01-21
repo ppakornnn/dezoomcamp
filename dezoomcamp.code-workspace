@@ -4,13 +4,7 @@
 			"path": "."
 		},
 		{
-			"path": "../../../Desktop/data_engineer_bootcamp/2_DOCKER_SQL"
-		},
-		{
-			"path": "../../../Desktop/data_engineer_bootcamp/dezoomcamp"
-		},
-		{
-			"path": "../../../Desktop/data_engineer_bootcamp/terrademo"
+			"path": "../../../Desktop/data_engineer_bootcamp"
 		}
 	],
 	"settings": {}
